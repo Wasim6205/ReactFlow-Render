@@ -10,7 +10,7 @@ export const nodes = [
     {
       id: "3",
       data: {
-        label: "Node 3",
+        label: "Node 2",
       },
       position: { x: 400, y: 100 },
       style: {
